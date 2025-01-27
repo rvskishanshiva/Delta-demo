@@ -1,2 +1,2 @@
 # Delta-demo
-This is demo class for html and css
+This is demo class for html and css.
